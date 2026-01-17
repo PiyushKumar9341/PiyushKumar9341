@@ -27,11 +27,6 @@
   <a href="https://piyushdev-ai.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-piyushdev--ai.netlify.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <!-- Optional: add X/Twitter later
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-@YOUR__HANDLE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  -->
 </p>
 
 ---
@@ -85,6 +80,10 @@
 
 ## 📊 GitHub stats
 
+<!-- Public github-readme-stats deployment is currently paused (503 from Vercel),
+     so these images are commented out to avoid broken cards.
+     Later you can self-host stats and replace the URLs. [web:13][web:35]
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PiyushKumar9341&show_icons=true&theme=tokyonight" alt="Piyush's GitHub stats" />
 </p>
@@ -92,3 +91,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar9341&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
