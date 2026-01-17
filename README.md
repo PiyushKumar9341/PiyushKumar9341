@@ -11,19 +11,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20GenAI-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20AI%20SaaS-success?style=flat-square" />
-</p>
-
 ## 👋 About me
 
-> **MCA Student & Full-Stack Developer** based in Greater Noida. I build intelligent web experiences where clean code meets Generative AI. 
+> **MCA Student & Full-Stack Developer** based in Greater Noida. I specialize in building intelligent web experiences where clean code meets Generative AI. 
 
-- 🚀 **Latest Project:** [AI-Powered Mock Interviewer](https://github.com/PiyushKumar9341) — Voice-based AI prep tool using Gemini.
-- 🧪 **Current Learning:** Data Structures & Algorithms (DSA) + Multi-Agent AI Workflows.
-- 📜 **Certified:** Google Cloud GenAI & Databricks (Simplilearn).
-- ✉️ **Reach me:** [piyush.s9341@gmail.com](mailto:piyush.s9341@gmail.com)
+- 🔭 **I’m currently working on:** [AI-Powered Mock Interviewer](https://github.com/PiyushKumar9341) using Gemini API to automate technical rounds.
+- 👯 **I’m looking to collaborate on:** Open-source GenAI projects or modern React/Node.js web apps.
+- 🤝 **I’m looking for help with:** Mastering advanced system design and low-level system optimization.
+- 🌱 **I’m currently learning:** **Data Structures & Algorithms (DSA)** and Multi-Agent AI workflows.
+- 💬 **Ask me about:** Java, Full-Stack development, or my latest GenAI certifications.
+- ⚡ **Fun fact:** I spend more time naming my variables than actually writing the logic!
 
 ---
 
@@ -42,13 +39,13 @@
 - **Tech:** React, Gemini API, SpeechRecognition, FastAPI.
 
 ### 🧠 [AI Tech Chatbox](https://github.com/PiyushKumar9341)
-*An automated assistant that acts as a technical recruiter for my personal portfolio.*
+*A specialized assistant trained to answer questions about my projects and technical expertise.*
 
 ---
 
 ## 🏙️ GitHub Activity in 3D
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=PiyushKumar9341&theme=tokyonight" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
@@ -56,12 +53,12 @@
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushKumar9341&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Piyush's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar9341&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PiyushKumar9341&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Piyush's Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PiyushKumar9341&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar9341&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PiyushKumar9341&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
