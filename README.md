@@ -86,6 +86,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PiyushKumar9341&label=PROFILE+VIEWS&color=0A66C2&style=flat-square" alt="Visitor Counter" />
+  
+  <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Network" />
+</p>
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
