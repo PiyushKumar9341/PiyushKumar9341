@@ -11,9 +11,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20GenAI-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20AI%20SaaS-success?style=flat-square" />
+</p>
+
 ## 👋 About me
 
-> **MCA Student & Full-Stack Developer** based in Greater Noida. I build intelligent web experiences where clean code meets Generative AI. 
+> **MCA Student & Full-Stack Developer** based in Greater Noida. I specialize in building intelligent web experiences where clean code meets Generative AI. 
 
 - 🔭 **I’m currently working on:** [AI-Powered Mock Interviewer](https://github.com/PiyushKumar9341) using Gemini API to automate technical rounds.
 - 👯 **I’m looking to collaborate on:** Open-source GenAI projects or modern React/Node.js web apps.
@@ -67,8 +72,8 @@
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=PiyushKumar9341&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Piyush's Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PiyushKumar9341&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PiyushKumar9341&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Piyush's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PiyushKumar9341&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
