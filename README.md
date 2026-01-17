@@ -18,7 +18,7 @@
 
 ## 👋 About me
 
-> **MCA Student & Full-Stack Developer** based in Greater Noida. I specialize in building intelligent web experiences where clean code meets Generative AI. 
+> **MCA Student & Full-Stack Developer** based in Greater Noida. I build intelligent web experiences where clean code meets Generative AI. 
 
 - 🔭 **I’m currently working on:** [AI-Powered Mock Interviewer](https://github.com/PiyushKumar9341) using Gemini API to automate technical rounds.
 - 👯 **I’m looking to collaborate on:** Open-source GenAI projects or modern React/Node.js web apps.
