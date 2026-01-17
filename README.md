@@ -13,7 +13,7 @@
 
 ## 👋 About me
 
-> **MCA Student & Full-Stack Developer** based in Greater Noida. I specialize in building intelligent web experiences where clean code meets Generative AI. 
+> **MCA Student & Full-Stack Developer** based in Greater Noida. I build intelligent web experiences where clean code meets Generative AI. 
 
 - 🔭 **I’m currently working on:** [AI-Powered Mock Interviewer](https://github.com/PiyushKumar9341) using Gemini API to automate technical rounds.
 - 👯 **I’m looking to collaborate on:** Open-source GenAI projects or modern React/Node.js web apps.
@@ -26,8 +26,22 @@
 
 ## 🛠️ Tech Stack & Tooling
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,py,html,tailwind,mongodb,mysql,git,docker,postman,figma" alt="Tech Stack" />
+### 🤖 Generative AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### 💻 Full-Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,fastapi,html,css,tailwind" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,aws,githubactions,postman" />
 </p>
 
 ---
