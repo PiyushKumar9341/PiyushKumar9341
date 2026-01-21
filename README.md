@@ -1,5 +1,7 @@
+<!-- ✨ WAVE HEADER ✨ -->
+<h1 align="center">Hii, I'm</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=PIYUSH+KUMAR;FULL-STACK+DEVELOPER;GEN+AI+ENTHUSIAST;MCA+STUDENT" alt="Piyush Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Piyush%20Kumar&fontAlign=50&animation=fadeIn&reversal=false&textBg=false&fontAlignY=50" />
 </p>
 
 <p align="center">
